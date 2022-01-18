@@ -14,3 +14,14 @@
  *= require_self
  */
  
+ #error_explanation {
+    color: red;
+}
+
+#notice {
+    color: green;
+}
+
+div.field, div.actions {
+    margin-bottom: 10px;
+}
